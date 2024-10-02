@@ -38,7 +38,7 @@ class FlyingBird:
         print()
         # print the way you want it to walk
     def Fly(self,Left_wing, Right_wing, High, Low, Delay):
-        print(walk for 1000)
+        print()
         # print the way you want it to fly
 
 
